@@ -1,0 +1,46 @@
+UpdateNode:name r,id 1
+
+UpdateNode:name s,id 2
+
+UpdateNode:name t,id 3
+
+UpdateNode:name u,id 4
+
+UpdateNode:name v,id 5
+
+UpdateNode:name w,id 6
+
+UpdateNode:name x,id 7
+
+UpdateNode:name y,id 8
+
+UpdateLink:name rv,id 1,peerid 2,src 1,dst 2,metric 1
+UpdateLink:name vr,id 1,peerid 2,src 1,dst 2,metric 1
+
+UpdateLink:name ,id 1,peerid 2,src 1,dst 2,metric 1
+UpdateLink:name rs,id 1,peerid 2,src 1,dst 2,metric 1
+
+UpdateLink:name sw,id 1,peerid 2,src 1,dst 2,metric 1
+UpdateLink:name sw,id 1,peerid 2,src 1,dst 2,metric 1
+
+UpdateLink:name wt,id 1,peerid 2,src 1,dst 2,metric 1
+UpdateLink:name wt,id 1,peerid 2,src 1,dst 2,metric 1
+
+UpdateLink:name wx,id 1,peerid 2,src 1,dst 2,metric 1
+UpdateLink:name wx,id 1,peerid 2,src 1,dst 2,metric 1
+
+UpdateLink:name tx,id 1,peerid 2,src 1,dst 2,metric 1
+UpdateLink:name tx,id 1,peerid 2,src 1,dst 2,metric 1
+
+UpdateLink:name tu,id 1,peerid 2,src 1,dst 2,metric 1
+UpdateLink:name tu,id 1,peerid 2,src 1,dst 2,metric 1
+
+UpdateLink:name ux,id 1,peerid 2,src 1,dst 2,metric 1
+UpdateLink:name ux,id 1,peerid 2,src 1,dst 2,metric 1
+
+UpdateLink:name uy,id 1,peerid 2,src 1,dst 2,metric 1
+UpdateLink:name uy,id 1,peerid 2,src 1,dst 2,metric 1
+
+UpdateLink:name xy,id 1,peerid 2,src 1,dst 2,metric 1
+UpdateLink:name xy,id 1,peerid 2,src 1,dst 2,metric 1
+

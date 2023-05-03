@@ -1,0 +1,16 @@
+UpdateNode:id s
+UpdateNode:id t
+UpdateNode:id x
+UpdateNode:id y
+UpdateNode:id z
+
+UpdateLink:id tx,src_id t,dst_id x,cost 5
+UpdateLink:id ty,src_id t,dst_id y,cost 8
+UpdateLink:id tz,src_id t,dst_id z,cost -4
+UpdateLink:id xt,src_id x,dst_id t,cost -2
+UpdateLink:id yx,src_id y,dst_id x,cost -3
+UpdateLink:id yz,src_id y,dst_id z,cost 9
+UpdateLink:id zx,src_id z,dst_id x,cost 7
+UpdateLink:id zs,src_id z,dst_id s,cost 2
+UpdateLink:id st,src_id s,dst_id t,cost 6
+UpdateLink:id sy,src_id s,dst_id y,cost 7
