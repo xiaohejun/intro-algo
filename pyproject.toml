@@ -8,6 +8,7 @@ packages = [{include = "intro_algo"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+graphviz = "^0.20.1"
 
 
 [tool.poetry.group.dev.dependencies]

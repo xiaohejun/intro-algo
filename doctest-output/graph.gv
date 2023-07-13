@@ -1,0 +1,17 @@
+digraph "graph" {
+	s
+	t
+	x
+	y
+	z
+	t -> x
+	t -> y
+	t -> z
+	x -> t
+	y -> x
+	y -> z
+	z -> x
+	z -> s
+	s -> t
+	s -> y
+}

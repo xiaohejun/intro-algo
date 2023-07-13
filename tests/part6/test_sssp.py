@@ -1,5 +1,6 @@
 from intro_algo.part6.graph import *
 from intro_algo.part6.sssp import *
+from intro_algo.part6.graph_visual import *
 import os
 
 class TestSSSP:
@@ -7,6 +8,7 @@ class TestSSSP:
     def test_graph_22_4(self):
         test_file = os.path.join(os.path.dirname(__file__), 'test_data', '24_4.txt')
         g = GraphFileParser(test_file).parse_graph()
+        GraphVisual(g).render()
         result = BellmanFord(CostWeightMap())(g, 's')
 
         # 校验计算结果
